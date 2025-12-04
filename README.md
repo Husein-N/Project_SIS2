@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Data_collection_project_SIS
-=======
+
 # Data_collection_project_SIS2
 # Technology Stocks ETL Pipeline (Airflow + Playwright + SQLite)
 
@@ -54,4 +52,4 @@ Data cleaning
 Database storage
 
 Workflow automation
->>>>>>> cd4ddc78c25ad6378441eea150b18960f21861c7
+
