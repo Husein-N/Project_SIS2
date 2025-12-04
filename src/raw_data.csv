@@ -1,0 +1,51 @@
+Ticker,Name,Exchange,Sector,Industry,Market Cap,P/E Ratio,PEG Ratio,Last Trade Price
+NVDA,NVIDIA,NASDAQ,Technology,Semiconductors & Semiconductor Equipment,$4.46T,45.4x,0.73,$183.61
+AAPL,Apple,NASDAQ,Technology,"Computers, Phones & Household Electronics",$4.14T,37.5x,1.62,$280.04
+GOOGL,Alphabet A,NASDAQ,Technology,Software & IT Services,$3.82T,31.3x,0.9,$316.90
+GOOG,Alphabet C,NASDAQ,Technology,Software & IT Services,$3.82T,31.3x,0.9,$317.71
+MSFT,Microsoft,NASDAQ,Technology,Software & IT Services,$3.55T,34x,2.16,$479.02
+AVGO,Broadcom,NASDAQ,Technology,Semiconductors & Semiconductor Equipment,$1.80T,98.1x,0.39,$381.25
+META,Meta Platforms,NASDAQ,Technology,Software & IT Services,$1.67T,29.3x,4.05,$664.49
+TSM,Taiwan Semiconductor,NYSE,Technology,Semiconductors & Semiconductor Equipment,$1.20T,23.6x,0.48,$291.59
+TCEHY,Tencent ADR,OTC Markets,Technology,Software & IT Services,$711.30B,23.8x,0.74,$77.91
+TCTZF,Tencent Holdings,OTC Markets,Technology,Software & IT Services,$711.30B,23.8x,0.74,$77.80
+ORCL,Oracle,NYSE,Technology,Software & IT Services,$609.56B,49.5x,4.1,$214.01
+MA,Mastercard,NYSE,Technology,Software & IT Services,$488.85B,34.8x,1.9,$544.76
+NFLX,Netflix,NASDAQ,Technology,Software & IT Services,$436.23B,43.1x,1.23,$103
+ASMLF,ASML Holding,OTC Markets,Technology,Semiconductors & Semiconductor Equipment,$433.25B,39.7x,0.98,"$1,110.90"
+ASML,ASML ADR,NASDAQ,Technology,Semiconductors & Semiconductor Equipment,$433.25B,39.7x,0.98,"$1,112.67"
+PLTR,Palantir,NASDAQ,Technology,Software & IT Services,$422.18B,411x,3.16,$176.87
+BABAF,Alibaba Holding,OTC Markets,Technology,Software & IT Services,$353.20B,21.3x,0.39,$20.55
+BABA,Alibaba ADR,NYSE,Technology,Software & IT Services,$353.20B,21.3x,0.39,$157.25
+AMD,AMD,NASDAQ,Technology,Semiconductors & Semiconductor Equipment,$353.17B,113.5x,1.44,$216.55
+CSCO,Cisco,NASDAQ,Technology,Communications & Networking,$305.74B,29.9x,2.61,$77.40
+IBM,IBM,NYSE,Technology,Software & IT Services,$287.48B,36.7x,1.66,$307.71
+SAPGF,SAP SE,OTC Markets,Technology,Software & IT Services,$285.88B,34.9x,0.22,$244.97
+SAP,SAP ADR,NYSE,Technology,Software & IT Services,$285.88B,34.9x,0.22,$246.01
+MU,Micron,NASDAQ,Technology,Semiconductors & Semiconductor Equipment,$254.70B,29.6x,0.03,$227.11
+CRM,Salesforce Inc,NYSE,Technology,Software & IT Services,$236.76B,36x,1.66,$248.77
+APP,Applovin,NASDAQ,Technology,Software & IT Services,$234.40B,84.7x,0.48,$692.91
+TMUS,T-Mobile US,NASDAQ,Technology,Telecommunications Services,$232.72B,20x,1.06,$208.33
+AMAT,Applied Materials,NASDAQ,Technology,Semiconductors & Semiconductor Equipment,$214.54B,31.2x,49.45,$269.39
+SHOP,Shopify Inc,NASDAQ,Technology,Software & IT Services,$210.46B,119.3x,4.12,$161.44
+LRCX,Lam Research,NASDAQ,Technology,Semiconductors & Semiconductor Equipment,$196.49B,34.6x,0.72,$156.72
+INTC,Intel,NASDAQ,Technology,Semiconductors & Semiconductor Equipment,$196.33B,912.2x,9.66,$41.04
+UBER,Uber Tech,NYSE,Technology,Software & IT Services,$187.86B,11.6x,0.04,$90.41
+QCOM,Qualcomm,NASDAQ,Technology,Semiconductors & Semiconductor Equipment,$186.31B,34.8x,-0.74,$174.58
+INTU,Intuit,NASDAQ,Technology,Financial Technology (Fintech) & Infrastructure,$183.06B,45.1x,1.03,$658.10
+T,AT&T,NYSE,Technology,Telecommunications Services,$179.86B,8.2x,0.06,$25.37
+TBB,AT&T,NYSE,Technology,Telecommunications Services,$179.86B,8.2x,,$22.38
+VZ,Verizon,NYSE,Technology,Telecommunications Services,$173.80B,8.8x,0.08,$41.23
+NOW,ServiceNow Inc,NYSE,Technology,Software & IT Services,$173.27B,101x,3.4,$835.12
+APH,Amphenol,NYSE,Technology,Electronic Equipment & Parts,$171.32B,46.7x,0.62,$139.91
+SNEJF,Sony Corp,OTC Markets,Technology,"Computers, Phones & Household Electronics",$170.15B,22.1x,3.98,$29.13
+SONY,Sony ADR,NYSE,Technology,"Computers, Phones & Household Electronics",$170.15B,22.1x,3.98,$28.36
+ACN,Accenture,NYSE,Technology,Software & IT Services,$167.82B,22.3x,3.22,$270.90
+PDD,PDD Holdings DRC,NASDAQ,Technology,Software & IT Services,$166.38B,13.3x,-1.79,$115.31
+TXN,Texas Instruments,NASDAQ,Technology,Semiconductors & Semiconductor Equipment,$164.41B,33x,14.76,$180.95
+ANET,Arista Networks,NYSE,Technology,Communications & Networking,$162.67B,49.2x,1.88,$129.29
+SFTBY,SoftBank Group,OTC Markets,Technology,Telecommunications Services,$162.43B,8.6x,0.17,$58.47
+SFTBF,Softbank Corp,OTC Markets,Technology,Telecommunications Services,$162.43B,8.6x,0.17,$105.54
+KLAC,KLA Corp,NASDAQ,Technology,Semiconductors & Semiconductor Equipment,$158.61B,38x,0.8,"$1,208.63"
+DTEGY,Deutsche Telekom ADR,OTC Markets,Technology,Telecommunications Services,$152.22B,11.1x,0.11,$31.94
+DTEGF,Deutsche Telekom,OTC Markets,Technology,Telecommunications Services,$152.22B,11.1x,0.11,$31.28

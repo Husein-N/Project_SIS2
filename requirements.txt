@@ -1,0 +1,7 @@
+apache-airflow==2.8.4
+pandas
+playwright
+fake-useragent
+beautifulsoup4
+requests
+sqlite3-binary
